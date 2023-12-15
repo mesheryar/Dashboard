@@ -1,0 +1,45 @@
+.ByDate-main .Bydate{
+    background-color: #FFFFFF;
+    box-shadow:3px 0px 20px 10px rgba(61, 70, 112, 0.08);
+    height: 300px;
+    width: 402px;
+    border-radius: 12px;
+    margin-top: 20px;
+    margin-left: 21px;
+}
+.ByDate-h1{
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 21px;
+}
+.Bydate label{
+    font-size: 14px;
+    margin-left: 20px;
+    color: rgba(131, 137, 140, 1);
+    float: left;
+    margin-top: 15px;
+}
+input[type=checkbox]{
+    height: 20px;
+    width: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    accent-color:rgba(182, 117, 113, 1);
+    float: left;
+}
+.Bydate input{
+    margin-top: 15px;
+}
+.Bydate button{
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+    width: 100%;
+    color: white;
+    background-color: rgba(182, 117, 113, 1);
+    border: none;
+    height: 36px;
+    border-radius: 12px;
+    margin-top: 16px;
+}
+

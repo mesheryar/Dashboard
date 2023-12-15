@@ -1,0 +1,35 @@
+.Filter{
+    width: 320px;
+    height: 478px;
+    box-shadow:3px 0px 20px 10px rgba(61, 70, 112, 0.08);
+}
+.Filter label{
+    margin-left: 10px;
+    float: left;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 12px;
+    color: rgba(131, 137, 140, 1);
+}
+.Filter input[type=checkbox]{
+    height: 20px;
+    width: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    accent-color:rgba(182, 117, 113, 1);
+    float: left;
+    margin-top: 12px;
+}
+.Filter h2{
+    font-size: 16px;
+    font-weight: 500;
+    margin-left:12px;
+    padding-top: 21px;
+}
+.Filter h6{
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 21px;
+    color: rgba(83, 84, 92, 1);
+    margin-left: 12px;
+}

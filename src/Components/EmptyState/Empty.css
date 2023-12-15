@@ -1,0 +1,48 @@
+.Empty-main{
+    height: 324px;
+    width: 282px;   
+    gap: 40px;
+    display: inline-block;
+}
+.Iconcontainer{
+    width: 140px;
+    height: 140px;
+}
+.Empty-main h1{
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    line-height: 30px;
+    font-family: 'poppins';
+    margin-top: 40px;
+}
+.Empty-main p{
+    color: #8B8D97;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: inter;
+    margin-top: 12px;
+}
+.Empty-btn{
+    background-color: #B67571;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 44px;
+    width: 180px;
+    gap: 10px;
+    border-radius: 12px;
+    margin-top: 24px;
+    cursor: pointer;
+}
+.Empty-btn img{
+    height: 24px;
+    width: 24px;
+}
+.Empty-btn h4{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 6px;
+    color: white;
+}
